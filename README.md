@@ -12,7 +12,7 @@ https://www.kaggle.com/datasets/mkechinov/ecommerce-events-history-in-electronic
 - Power BI (для визуализации)
 
 Результаты:
-- построена воронка (view --> cart --> purchase)
+- построена воронка (view → cart → purchase)
 - рассчитаны конверсии на уровне пользователей и сессий
 - проведён анализ категорий товаров (CR / выручка)
 - выполнена сегментация категорий
