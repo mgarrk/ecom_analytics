@@ -20,7 +20,6 @@ https://www.kaggle.com/datasets/mkechinov/ecommerce-events-history-in-electronic
 
 
 ![Выручка](images/pie_rev.png)
-![Конверсия](images/stacked_cr.png")
 
 ## Ключевые инсайты:
 - выявлены категории с высокой конверсией, но низкой выручкой → потенциал роста через увеличение среднего чека
